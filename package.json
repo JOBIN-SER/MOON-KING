@@ -1,5 +1,5 @@
 {
-  "name": "MOON-KING",
+  "name": "JOBIN-SER",
   "version": "1.0.0",
   "description": "Multi device wa bot created by Dark Bot Inc.",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2021",
+    "2023",
     "wabase-md",
     "base",
     "baileys-md",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Asif",
+  "author": "JOBIN-SER",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
