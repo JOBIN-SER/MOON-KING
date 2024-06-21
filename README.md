@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/IQ0i24R.jpg" width="250" height="300/" />
 </p>
 
-<h1 align="center">𝐉𝐎𝐁𝐈𝐍-𝐒𝐄𝐑✨<br></h1>
+<h1 align="center">𝐉𝐎𝐁𝐈𝐍-𝐒𝐄𝐑 ✨<br></h1>
 <p align="center">
   <img src="https://i.ibb.co/ZTKt8qz/17a180c354db1cdc6f38e039273b7609.jpg" width="540" height="300" />
 </p>
@@ -25,7 +25,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Dark-Asif/MOON-KING
+git clone https://github.com/JOBIN-SER/MOON-KING
 cd MOON-KING
 npm start
 ```
